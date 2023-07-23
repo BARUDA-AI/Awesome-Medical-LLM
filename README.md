@@ -23,3 +23,7 @@ Lavender Yao Jiang, Xujin Chris Liu, Nima Pour Nejatian, Mustafa Nasir-Moin, Duo
 *Nature* [[Paper](https://www.nature.com/articles/s41586-023-06160-y)]\
 07 June 2023
 
+**A language model for medical predictive tasks**
+Fernando Chirigati
+*Nature Computational Science* [[Paper](https://www.nature.com/articles/s43588-023-00493-4)]
+20 July 2023
