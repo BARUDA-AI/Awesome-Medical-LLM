@@ -5,3 +5,6 @@
 This repository contains a collection of resources and papers on ***Diffusion Models***.
 # Awesome-Medical-LLM
 Large language model of Medical AI, General Medical AI (GMAI)
+
+## Review Paper
+Large language models in medicine
