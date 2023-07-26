@@ -38,3 +38,9 @@ Michael Moor, Oishi Banerjee, Zahra Shakeri Hossein Abad, Harlan M. Krumholz, Ju
 Eric Lehman, Evan Hernandez, Diwakar Mahajan, Jonas Wulff, Micah J. Smith, Zachary Ziegler, Daniel Nadler, Peter Szolovits, Alistair Johnson, Emily Alsentzer \
 *Arxiv* [[Paper](https://arxiv.org/abs/2302.08091)] \
 16 Feb 2023
+
+**Review## \
+Accelerating the integration of ChatGPT and other large‐scale AI models into biomedical research and healthcare
+Ding‐Qiao Wang, Long‐Yu Feng, Jin‐Guo Ye, Jin‐Gen Zou, Ying‐Feng Zheng
+*MedComm* [[Paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/mef2.43)]
+7 April 2023
