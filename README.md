@@ -26,8 +26,15 @@ Fernando Chirigati \
 *Nature Computational Science* [[Paper](https://www.nature.com/articles/s43588-023-00493-4)] \
 20 July 2023
 
+### Medical Licensing Exam
+
 ## Perspective
 **Foundation models for generalist medical artificial intelligence** \
 Michael Moor, Oishi Banerjee, Zahra Shakeri Hossein Abad, Harlan M. Krumholz, Jure Leskovec, Eric J. Topol & Pranav Rajpurkar \
 *Nature* [[Paper](https://www.nature.com/articles/s41586-023-05881-4)] \
 12 April 2023
+
+**Do We Still Need Clinical Language Models?** \
+Eric Lehman, Evan Hernandez, Diwakar Mahajan, Jonas Wulff, Micah J. Smith, Zachary Ziegler, Daniel Nadler, Peter Szolovits, Alistair Johnson, Emily Alsentzer \
+*Arxiv* [[Paper](https://arxiv.org/abs/2302.08091)] \
+16 Feb 2023
