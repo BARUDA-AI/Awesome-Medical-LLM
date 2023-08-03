@@ -58,3 +58,5 @@ Accelerating the integration of ChatGPT and other large‐scale AI models into b
 Ding‐Qiao Wang, Long‐Yu Feng, Jin‐Guo Ye, Jin‐Gen Zou, Ying‐Feng Zheng
 *MedComm* [[Paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/mef2.43)]
 7 April 2023
+
+https://www.nature.com/articles/s41746-022-00742-2
