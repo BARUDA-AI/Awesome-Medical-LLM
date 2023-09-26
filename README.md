@@ -40,6 +40,11 @@ Fernando Chirigati \
 *Nature Computational Science* [[Paper](https://www.nature.com/articles/s43588-023-00493-4)] \
 20 July 2023
 
+**Radiology-Llama2: Best-in-Class Large Language Model for Radiology** \
+Zhengliang Liu, Yiwei Li, Peng Shu, Aoxiao Zhong, Longtao Yang, Chao Ju, Zihao Wu, Chong Ma, Jie Luo, Cheng Chen, Sekeun Kim, Jiang Hu, Haixing Dai, Lin Zhao, Dajiang Zhu, Jun Liu, Wei Liu, Dinggang Shen, Tianming Liu, Quanzheng Li, Xiang Li \
+*arXiv* [[Paper](https://arxiv.org/abs/2309.06419)] \
+29 Aug 2023
+
 ### Medical Licensing Exam
 
 ## Perspective
