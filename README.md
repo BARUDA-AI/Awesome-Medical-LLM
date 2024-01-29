@@ -72,5 +72,7 @@ Eric Lehman, Evan Hernandez, Diwakar Mahajan, Jonas Wulff, Micah J. Smith, Zacha
 16 Feb 2023
 
 ## Benchmark
+### [Question Anaswering] 
+Since the medical QA is based on medical licensing exams like the USMLE, it is anticipated that scoring above 60% signifies reaching the level of a general practitioner. There is an expectation that this AI will be able to substitute for tasks at the level of a general practitioner.
 **MedQA** [[paperswithcode](https://paperswithcode.com/sota/question-answering-on-medqa-usmle)]
 
