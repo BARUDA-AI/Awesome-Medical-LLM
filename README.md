@@ -55,7 +55,6 @@ Zhengliang Liu, Yiwei Li, Peng Shu, Aoxiao Zhong, Longtao Yang, Chao Ju, Zihao W
 *arXiv* [[Paper](https://arxiv.org/abs/2309.06419)] \
 29 Aug 2023
 
-### Medical Licensing Exam
 
 ## Perspective
 **Foundation models for generalist medical artificial intelligence** \
