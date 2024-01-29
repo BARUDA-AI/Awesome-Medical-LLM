@@ -67,3 +67,6 @@ Eric Lehman, Evan Hernandez, Diwakar Mahajan, Jonas Wulff, Micah J. Smith, Zacha
 *Arxiv* [[Paper](https://arxiv.org/abs/2302.08091)] \
 16 Feb 2023
 
+## Benchmark
+**MedQA** [[paperswithcode](https://paperswithcode.com/sota/question-answering-on-medqa-usmle)]
+
