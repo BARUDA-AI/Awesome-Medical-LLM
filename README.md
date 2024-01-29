@@ -77,5 +77,5 @@ Since the medical QA is based on medical licensing exams like the USMLE, it is a
 **MedQA** [[paperswithcode](https://paperswithcode.com/sota/question-answering-on-medqa-usmle)]
 
 ### [Medical Report Generation]
-**MIMIC-CXR [[paperswithcode](https://paperswithcode.com/sota/medical-report-generation-on-mimic-cxr)]
+**MIMIC-CXR** [[paperswithcode](https://paperswithcode.com/sota/medical-report-generation-on-mimic-cxr)]
 
