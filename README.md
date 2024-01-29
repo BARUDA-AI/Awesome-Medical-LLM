@@ -55,6 +55,10 @@ Zhengliang Liu, Yiwei Li, Peng Shu, Aoxiao Zhong, Longtao Yang, Chao Ju, Zihao W
 *arXiv* [[Paper](https://arxiv.org/abs/2309.06419)] \
 29 Aug 2023
 
+**MEDITRON-70B: Scaling Medical Pretraining for Large Language Models** \ 
+Zeming Chen, Alejandro Hernández Cano, Angelika Romanou, Antoine Bonnet, Kyle Matoba, Francesco Salvi, Matteo Pagliardini, Simin Fan, Andreas Köpf, Amirkeivan Mohtashami, Alexandre Sallinen, Alireza Sakhaeirad, Vinitra Swamy, Igor Krawczuk, Deniz Bayazit, Axel Marmet, Syrielle Montariol, Mary-Anne Hartley, Martin Jaggi, Antoine Bosselut \
+*arxiv* [[Paper](https://arxiv.org/abs/2311.16079)] \
+ 27 Nov 2023
 
 ## Perspective
 **Foundation models for generalist medical artificial intelligence** \
