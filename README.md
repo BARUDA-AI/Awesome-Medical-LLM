@@ -71,7 +71,7 @@ Eric Lehman, Evan Hernandez, Diwakar Mahajan, Jonas Wulff, Micah J. Smith, Zacha
 *Arxiv* [[Paper](https://arxiv.org/abs/2302.08091)] \
 16 Feb 2023
 
-## Benchmark
+## Benchmarks
 ### [Question Anaswering] 
 Since the medical QA is based on medical licensing exams like the USMLE, it is anticipated that scoring above 60% signifies reaching the level of a general practitioner. There is an expectation that this AI will be able to substitute for tasks at the level of a general practitioner. \
  \
