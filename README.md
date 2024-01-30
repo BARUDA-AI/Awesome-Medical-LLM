@@ -14,9 +14,6 @@ Arun James Thirunavukarasu, Darren Shu Jeng Ting, Kabilan Elangovan, Laura Gutie
 Michael Wornow, Yizhe Xu, Rahul Thapa, Birju Patel, Ethan Steinberg, Scott Fleming, Michael A. Pfeffer, Jason Fries & Nigam H. Shah  \
 npj Digital Medicine [[Paper](https://www.nature.com/articles/s41746-023-00879-8)] 
 
-[6 September 2023] **Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review**
-Yuan et al. ArXiv [[paper](https://arxiv.org/abs/2311.01918)]
-
 ## Paper
 ### [Google]
 **Towards Conversational Diagnostic AI** \
